@@ -48,15 +48,16 @@ In this project, we propose a hybrid approach combining **CU Sketch** with **ML 
 
 ## Related Works
 
-- Elastic Sketch (SIGCOMM 2018)
-- Bubble Sketch (CIKM 2024)
-- Stable Sketch (WWW 2024)
-- Enhanced ML Sketches (IEEE TC 2023)
+[1]	Tong Yang, Jie Jiang, Peng Liu, Qun Huang, Junzhi Gong, Yang Zhou, Rui Miao, Xiaoming Li, and Steve Uhlig. 2018. Elastic sketch: adaptive and fast network-wide measurements. In Proceedings of the 2018 Conference of the ACM Special Interest Group on Data Communication (SIGCOMM '18). Association for Computing Machinery, New York, NY, USA, 561–575. https://doi.org/10.1145/3230543.3230544
+
+[2]	Lu Cao, Qilong Shi, Yuxi Liu, Hanyue Zheng, Yao Xin, Wenjun Li, Tong Yang, Yangyang Wang, Yang Xu, Weizhe Zhang, and Mingwei Xu. 2024. Bubble Sketch: A High-performance and Memory-efficient Sketch for Finding Top-k Items in Data Streams. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM '24). Association for Computing Machinery, New York, NY, USA, 3653–3657. https://doi.org/10.1145/3627673.3679882
+
+[3]	Weihe Li and Paul Patras. 2024. Stable-Sketch: A Versatile Sketch for Accurate, Fast, Web-Scale Data Stream Processing. In Proceedings of the ACM Web Conference 2024 (WWW '24). Association for Computing Machinery, New York, NY, USA, 4227–4238. https://doi.org/10.1145/3589334.3645581
+
+[4]	H. Wang, H. Lin, Z. Zhong, T. Yang and M. Shahzad, "Enhanced Machine Learning Sketches for Network Measurements," in IEEE Transactions on Computers, vol. 72, no. 4, pp. 957-970, 1 April 2023, doi: 10.1109/TC.2022.3185560.
+
 
 ---
 
-## Authors
-National Cheng Kung University
--  簡維頡  
--  黃聖民  
+
 
